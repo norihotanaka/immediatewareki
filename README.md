@@ -10,9 +10,16 @@
 <img width="132" height="286" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-08-20 at 14 45 40" src="https://github.com/user-attachments/assets/9025cf7e-1a33-493b-b288-ebe783a9111b" />
 <img width="132" height="286" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-08-20 at 14 33 09" src="https://github.com/user-attachments/assets/282f9232-1ecd-4e0f-b92b-153fc16ea272" />
 
+---
+概要
+---
+
 「さっと和暦」は、今年が和暦で何年なのかを、さっと表示するアプリです。
+
 ・今、令和何年?
+
 ・もしも平成が今も続いていたら平成何年?
+
 ・さらにもしも昭和が今も続いていたら昭和何年?
 
 ---
